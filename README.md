@@ -13,11 +13,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 🧑‍💻 About Me
+## 💻 About Me
 
 Hi there, I am a full-stack developer with a strong focus on backend development. I enjoy building scalable APIs, designing databases, and turning real-world ideas into reliable web applications using modern  technologies.
 
-🎯 Improve **real systems** as a **software engineer**
+## 🎯 Goal
+
+Improve **real systems** as a **software engineer**
+
+
 
 
 ## 🛠 Tech Stack
@@ -32,7 +36,7 @@ Hi there, I am a full-stack developer with a strong focus on backend development
 </p>
 
 
-## 📫 Contact Me
+## 🌐 Contact Me
 
 <p align="left"> 
 <a href="https://www.linkedin.com/in/min-htet-thar-18028b389/"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge" /> </a>
