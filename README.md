@@ -17,12 +17,6 @@ Here are some ideas to get you started:
 
 Hi there, I am a full-stack developer with a strong focus on backend development. I enjoy building scalable APIs, designing databases, and turning real-world ideas into reliable web applications using modern  technologies.
 
-## 🎯 Goal
-
-Improve **real systems** as a **software engineer**
-
-
-
 
 ## 🛠 Tech Stack
 
