@@ -13,55 +13,33 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi, I'm Min Htet Thar 👋
-
-🚀 Full-Stack Developer
-
-💻 Passionate about building scalable web applications  
-
-🌏 Based in Bangkok, Thailand
-
----
-
 ## 🧑‍💻 About Me
 
-- 🎓 Studying and building real-world projects with **React, Next.js, Node.js**
-- 🔧 Strong interest in **backend development & system design**
-- 🧠 Enjoy learning new tools and improving code quality
-- 🎯 Goal: Improve **real systems** as a **software engineer**
+  Hi there, I am a full-stack developer with a strong focus on backend development. I enjoy building scalable APIs, designing databases, and turning real-world ideas into reliable web applications using modern  technologies.
 
----
+- 🎯 Improve **real systems** as a **software engineer**
 
 ## 🛠 Tech Stack
 
-**Frontend**
-- React, Next.js (App Router)
-- TypeScript, JavaScript
-- Tailwind CSS, shadcn/ui
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,tailwindcss,nodejs,nestjs,postgresql,mongodb,supabase,prisma,redis,socketio,docker,vercel,git,github)](https://skillicons.dev) 
+<p align="left">
+<img src="https://img.shields.io/badge/REST_API-000000?style=for-the-badge&logo=fastapi&logoColor=white" /> 
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens" />
+<img src="https://img.shields.io/badge/NextAuth-000000?style=for-the-badge&logo=auth0" /> 
+<img src="https://img.shields.io/badge/Clerk-000000?style=for-the-badge&logo=clerk" />
+<img src="https://img.shields.io/badge/Zustand-000000?style=for-the-badge" /> 
+</p>
 
-**Backend**
-- Node.js, NestJS
-- REST APIs
-- JWT / Auth (NextAuth, Clerk)
-
-**Database**
-- PostgreSQL
-- Prisma
-- MongoDB (experience)
-
-**Tools & Others**
-- Git & GitHub
-- Docker (basic)
-- Socket.IO
-- Zustand
 
 ---
 
 ## 📫 Contact Me
 
-- GitHub: [https://github.com/MinHtetTharUTYCC](https://github.com/MinHtetTharUTYCC)
-- Email: minhtettharutycc@gmail.com
-- Portfolio: (coming soon)
+<p align="left"> 
+<a href="https://www.linkedin.com/in/min-htet-thar-18028b389/"> <img src="https://skillicons.dev/icons?i=linkedin" /> </a>
+<a href="https://www.facebook.com/minhtettharutycc"> <img src="https://skillicons.dev/icons?i=facebook" /> </a> 
+<a href="#"> <img src="https://img.shields.io/badge/Portfolio-Coming_Soon-000000?style=for-the-badge" /> </a> 
+</p>
 
 ---
 
