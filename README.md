@@ -15,9 +15,10 @@ Here are some ideas to get you started:
 
 ## 🧑‍💻 About Me
 
-  Hi there, I am a full-stack developer with a strong focus on backend development. I enjoy building scalable APIs, designing databases, and turning real-world ideas into reliable web applications using modern  technologies.
+Hi there, I am a full-stack developer with a strong focus on backend development. I enjoy building scalable APIs, designing databases, and turning real-world ideas into reliable web applications using modern  technologies.
 
-- 🎯 Improve **real systems** as a **software engineer**
+🎯 Improve **real systems** as a **software engineer**
+
 
 ## 🛠 Tech Stack
 
@@ -31,16 +32,12 @@ Here are some ideas to get you started:
 </p>
 
 
----
-
 ## 📫 Contact Me
 
 <p align="left"> 
 <a href="https://www.linkedin.com/in/min-htet-thar-18028b389/"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge" /> </a>
 <a href="https://www.facebook.com/minhtettharutycc"> <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge" /> </a> 
-<a href="_blank"> <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge" /> </a> 
+<a href="#"> <img src="https://img.shields.io/badge/Portfolio-Coming-Soon-000000?style=for-the-badge" /> </a> 
 </p>
-
----
 
 ⭐ Feel free to check out my repositories and leave a star if you like my work!
