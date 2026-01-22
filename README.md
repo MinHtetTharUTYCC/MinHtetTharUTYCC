@@ -35,7 +35,7 @@ Hi there, I am a full-stack developer with a strong focus on backend development
 <p align="left"> 
 <a href="https://www.linkedin.com/in/min-htet-thar-18028b389/"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge" /> </a>
 <a href="https://www.facebook.com/minhtettharutycc"> <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge" /> </a> 
-<a href="#"> <img src="https://img.shields.io/badge/Portfolio-Coming-Soon-000000?style=for-the-badge" /> </a> 
+<a href="minhtetthar.dev"> <img src="https://img.shields.io/badge/Portfolio-blue?style=for-the-badge" /> </a> 
 </p>
 
 ⭐ Feel free to check out my repositories and leave a star if you like my work!
