@@ -38,4 +38,3 @@ Hi there, I am a full-stack developer with a strong focus on backend development
 <a href="https://www.facebook.com/minhtettharutycc"> <img src="https://img.shields.io/badge/Facebook-blue" /> </a> 
 </p>
 
-⭐ Feel free to check out my repositories and leave a star if you like my work!
